@@ -14,6 +14,5 @@ public class TrabajoEnClase2 {
         System.out.println("La Multiplicación de :" + num1 + " + " + num2 + " = " +(num1 * num2));
         System.out.println("La División entre :" + num1 + " + " + num2 + " = " +(num1 / num2));
         System.out.println("La Modulo de :" + num1 + " + " + num2 + " = " +(num1 % num2));
-
     }
 }
