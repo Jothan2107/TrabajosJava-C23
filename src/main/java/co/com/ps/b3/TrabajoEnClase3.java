@@ -15,13 +15,14 @@ public class TrabajoEnClase3 {
             lista.add(scanner.next());
 
         }
-        scanner.close();
+
         for (int i = 0; i < lista.size(); i++) {
             int l;
             l =lista.get(i).length();
             if(l>3){
                 System.out.println(lista.get(i)); // imprime los nombres con mas de 4 letras
         }
+            scanner.close();
 
         }
     }
